@@ -76,7 +76,6 @@ Example command:
  gem install rails
 ```
 
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -87,8 +86,6 @@ Example commands:
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
-
-
 ### Install
 
 Install this project with:
